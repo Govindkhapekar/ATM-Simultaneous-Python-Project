@@ -1,19 +1,31 @@
-ATM SIMULATOR IN PYTHON
+# ATM Simulator in Python
 
-Username: user2
+This is a simple ATM simulation project written in Python. It allows users to log in using a username and PIN, and perform basic banking operations like balance inquiry, deposit, withdrawal, and PIN change.
 
-Pin code: 2222
+## Default Credentials
 
+- **Username**: `user2`
+- **PIN Code**: `2222`
 
+## Features
 
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+- User authentication
+- Balance check
+- Cash withdrawal
+- Deposit functionality
+- Change PIN option
+- Transaction feedback via console
 
+## Technologies Used
 
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+- Python (core language)
+- File handling for data storage (optional)
+- Command-line interface
 
+## How to Run
 
-***** FOR MORE PROJECTS :- https://projectworlds.in/ *****
-
-
-
-THANK YOU FOR DOWNLOADING :) 
+1. Make sure you have Python installed (version 3.x recommended).
+2. Open a terminal or command prompt.
+3. Run the script:
+   ```bash
+   python atm.py
